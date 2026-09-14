@@ -29,7 +29,7 @@ class starter {
  
         // TODO: Construct and declare an int variable named totalBaskets that equals
         // applesPicked multiplied by applesPerBasket
-        int totalBaskets = applesPicked *applesPerBasket;
+        int totalBaskets = applesPicked * applesPerBasket;
  
         System.out.println("Total baskets: " + totalBaskets);
         // Expected: Total baskets: 48
@@ -70,7 +70,7 @@ class starter {
         // TODO: Construct and declare an int variable named leftoverCookies that stores
         // the remainder of totalCookies divided by studentsInClass
         int leftoverCookies = totalCookies % studentsInClass;
- 
+        
         System.out.println("Leftover cookies: " + leftoverCookies);
         // Expected: Leftover cookies: 2
 
