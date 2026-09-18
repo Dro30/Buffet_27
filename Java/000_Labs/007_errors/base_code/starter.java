@@ -22,5 +22,5 @@ class starter {
 		System.out.println(sum);
 
 	}
-		System.out.println("I now have 0 errors!!!");		
+		System.out.println(" I now have 0 errors!!!");		
 }
