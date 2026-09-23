@@ -16,6 +16,7 @@ class starter {
 		String line = sc.nextLine();
 		System.out.print("What month were you born?"); 
 		String small = sc.nextLine();
+		System.out.println("Name: " + pic + ", Age: " + line + ", Birth month: " + small);
 
 
 	}
