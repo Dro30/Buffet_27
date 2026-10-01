@@ -11,7 +11,7 @@ class starter {
 		boolean raining = true;
 
 		if (raining) {
-			System.out.println("Bring an umbrella.");
+			System.out.println("");
 		} else {
 			System.out.println("This does run");
 	
