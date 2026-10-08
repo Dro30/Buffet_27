@@ -11,12 +11,12 @@ class starter {
 
         if (x >= y && x >= z) {
             System.out.println(x + " is the biggest");
-        } if (y >= x && y >= z) {
+        } else if (y >= x && y >= z) {
             System.out.println(y + " is the biggest");
-        } if (z >= x && z >= y) {
+        } else if (z >= x && z >= y) {
             System.out.println(z + " is the biggest");
         }
 
-       
+        sc.close();
     }
 }
